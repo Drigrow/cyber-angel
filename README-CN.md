@@ -2,6 +2,8 @@
 
 一个本地托管/部署的AI助手，基于布洛妮娅（出自《崩坏3》），支持Porcupine唤醒词检测、Whisper语音转文字、OpenAI响应及GPT-SoVITS语音合成。
 
+本文也可阅读于：[https://blog.drigrow.us.kg/](https://blog.drigrow.us.kg/2025/01/19/%e7%bb%8f%e9%aa%8c%e5%88%86%e4%ba%ab%e8%b5%9b%e5%8d%9a%e9%b8%ad%e9%b8%ad/)
+
 [English version](https://github.com/Drigrow/cyber-angel/blob/main/README.md) | 中文
 
 ## 如何部署
