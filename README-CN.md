@@ -61,7 +61,7 @@
 
    这是一个简单步骤，您可以复制以下命令到命令行运行：
 
-   `pip install --upgrade gradio pvporcupine pyaudio openai openai-whisper numpy==1.26.1 wave simpleaudio`
+   `pip install --upgrade gradio pvporcupine pyaudio openai==0.28 openai-whisper numpy==1.26.1 wave simpleaudio`
 
    可能需要额外安装依赖，按需下载。
 
