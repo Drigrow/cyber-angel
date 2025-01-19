@@ -8,32 +8,45 @@ English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/READ
 * 概述：部署 [gpt-sovits](https://github.com/RVC-Boss/GPT-SoVITS)，安装gpt-sovits的布洛妮娅模型，设置自定义唤醒词并获取 [picovoice.ai](https://console.picovoice.ai/) 的访问密钥，获取OpenAI API密钥，安装所有依赖并开始使用。
 
 * 详细步骤：
+  
 1. 部署 [gpt-sovits](https://github.com/RVC-Boss/GPT-SoVITS)
 
    打开：https://github.com/RVC-Boss/GPT-SoVITS
+   
    
    按照上述仓库中的指南完成部署。
    
+
 2. 安装布洛妮娅GPT/SoVITS模型
-   
-   `GPT模型`：[下载](https://img.0071126.xyz/bronya-e10.ckpt)
+   
+
+   `GPT模型`：[下载](https://img.0071126.xyz/bronya-e10.ckpt)
+   
    
    `SoVITS模型`：[下载](https://img.0071126.xyz/bronya_e10_s320.pth)
+   
    
    `参考音频`：[下载](https://img.0071126.xyz/%E5%97%AF...%E5%95%8A%EF%BC%81%E5%86%8D%E8%83%A1%E9%97%B9%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%B8%8B%E6%AC%A1%E6%88%91%E5%B0%B1%E4%B8%8D%E7%BB%99%E4%BD%A0%E5%8D%87%E7%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%86%E5%93%A6%E3%80%82.wav)
+   
 
    或访问原作者网站：[https://www.ai-hobbyist.com/thread-551-1-1.html](https://www.ai-hobbyist.com/thread-551-1-1.html)
+   
 
    下载完成后，将 `GPT模型`（以 `.ckpt` 结尾）移动到您部署路径中的 `GPT_weights_v2` 文件夹，将 `SoVITS模型`（以 `.pth` 结尾）移动到 `SoVITS_weights_v2` 文件夹。
    
+
 3. 从 [picovoice.ai](https://console.picovoice.ai/) 获取访问密钥和自定义唤醒词
+ 
 
    参考：[https://picovoice.ai/blog/console-tutorial-custom-wake-word](https://picovoice.ai/blog/console-tutorial-custom-wake-word)，以下为概要：
+   
 
    * 创建一个账户或登录 [https://console.picovoice.ai/](https://console.picovoice.ai/)
+   
    
-   * 在 [https://console.picovoice.ai/](https://console.picovoice.ai/) 获取您的访问密钥并下载自定义唤醒词文件（`.ppn`），唤醒词为“Bronya”（注意，“Bronya” 不是有效唤醒词，因此使用类似“bro knee ah”的发音代替）。
+   * 在 [https://console.picovoice.ai/](https://console.picovoice.ai/) 获取您的访问密钥并下载自定义唤醒词文件（`.ppn`），唤醒词为“Bronya”（注意，“Bronya” 不是有效唤醒词，因此使用类似“bro knee ah”的发音代替）。
   
+
 4. 获取您的OpenAI API密钥
 
    可以通过 [https://platform.openai.com/](https://platform.openai.com/) 获取，以下为概要：
