@@ -62,7 +62,17 @@ English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/READ
 
 ## How to use
 
-Run `main.py` and wait for the initialization to complete. Once initialized, you can say "Bronya, xxx" to activate the program. The program will automatically detect when you say "Bronya" and start recording (there may be a slight delay, so it's recommended to start speaking about 0.5 seconds after saying "Bronya"). The recording will automatically stop after 0.8 seconds of silence, but you can adjust this setting if needed. Transcription will appear within a few seconds, followed by the GPT response and the tts output. The tts result will play automatically. After Bronya finishes responding, you can begin a new conversation by saying "Bronya, xxx2." The chat history is set to retain the last 4 messages by default, but this setting is customizable.
+* Run `main.py` and wait for the initialization to complete. Once initialized, you can say "Bronya, xxx" to activate the program. 
+
+* The program will automatically detect when you say "Bronya" and start recording (there may be a slight delay, so it's recommended to start speaking about 0.5 seconds after saying "Bronya"). 
+
+* The recording will automatically stop after 0.8 seconds of silence, but you can adjust this setting if needed.
+
+* Transcription will appear within a few seconds, followed by the GPT response and the tts output. 
+
+* The tts result will play automatically. After Bronya finishes responding, you can begin a new conversation by saying "Bronya, xxx2." 
+
+* The chat history is set to retain the last 4 messages by default, but this setting is customizable.
 
 
 ## Common issues
