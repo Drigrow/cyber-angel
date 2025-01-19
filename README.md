@@ -60,8 +60,7 @@ English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/READ
 
    Have Fun! ^^
 
-    
----
+
 ## Common issues
 
 some issues I encountered myself, further editing with user feedback:
