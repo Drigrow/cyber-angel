@@ -2,7 +2,7 @@
 
 一个本地托管/部署的AI助手，基于布洛妮娅（出自《崩坏3》），支持Porcupine唤醒词检测、Whisper语音转文字、OpenAI响应及GPT-SoVITS语音合成。
 
-English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/README-CN.md)
+[English version](https://github.com/Drigrow/cyber-angel/blob/main/README.md) | 中文
 
 ## 如何部署
 * 概述：部署 [gpt-sovits](https://github.com/RVC-Boss/GPT-SoVITS)，安装gpt-sovits的布洛妮娅模型，设置自定义唤醒词并获取 [picovoice.ai](https://console.picovoice.ai/) 的访问密钥，获取OpenAI API密钥，安装所有依赖并开始使用。
