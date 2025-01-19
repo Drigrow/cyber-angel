@@ -1,6 +1,6 @@
 # Cyber-angel
 
-A locally hosted/deployed Bronya(from Honkai impact 3rd) as AI assistance, with porcupine wake word detection, whisper speech to text, Openai response, gpt-sovits text to speech
+Bronya(from Honkai impact 3rd) as AI assistance, with porcupine wake word detection, whisper speech to text, Openai response, gpt-sovits text to speech
 
 English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/README-CN.md)
 
