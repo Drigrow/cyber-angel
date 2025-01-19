@@ -46,7 +46,7 @@ English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/READ
 
    Another easy step, here is the command you can copy to cmd:
 
-   `pip install --upgrade gradio pvporcupine pyaudio openai openai-whisper numpy==1.26.1 wave simpleaudio`
+   `pip install --upgrade gradio pvporcupine pyaudio openai==0.28 openai-whisper numpy==1.26.1 wave simpleaudio`
 
    You may need more dependencies, download as you need.
 
