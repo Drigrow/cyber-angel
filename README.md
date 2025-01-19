@@ -56,6 +56,8 @@ English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/READ
 
 7. Enjoy
 
+   Double click the main.py or run it through cmd are both ok.
+
    Have Fun! ^^
 
     
