@@ -36,7 +36,7 @@ English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/READ
   
 4. Get you Openai API key
 
-   It is imple to get one via [https://platform.openai.com/](https://platform.openai.com/), here's the abstarct:
+   It is simple to get one via [https://platform.openai.com/](https://platform.openai.com/), here's the abstarct:
 
    * Create an account / Sign in to [https://platform.openai.com/](https://platform.openai.com/)
 
