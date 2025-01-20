@@ -56,7 +56,7 @@ English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/READ
 
 7. Enjoy
 
-   Down load `main.py` or the one with auxilliary prints into a folder with your `.ppn` file. Double click the main.py or run it through cmd are both ok. Remember pre-open your tts service (check if  `localhost:9872` is available)
+   Down load `main.py` into a folder with your `.ppn` file. Double click the main.py or run it through cmd are both ok. Remember pre-open your tts service (check if  `localhost:9872` is available)
 
    Have Fun! ^^
 
