@@ -85,6 +85,15 @@ some issues I encountered myself, further editing with user feedback:
 
 2. in developing...
 
+
+## Update log
+
+Jan.19th  project created and finished the first version of "complete bronya" w/ stt, ai response ,and tts. repo created and main.py, test-google-gemini.py, README.md(and Chinese version) uploaded to current repo.
+
+Jan.20th  a few changes on code and readme file
+
+Jan.23th  optimized realtime latency by spliting ai response and send the splits to tts to utilize the time reading the results.
+
 ## Acknowledgements
 
 Thanks for the following users/services:
