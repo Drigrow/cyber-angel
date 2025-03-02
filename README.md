@@ -46,15 +46,17 @@ English version | [中文](https://github.com/Drigrow/cyber-angel/blob/main/READ
 
    Another easy step, here is the command you can copy to cmd:
 
-   `pip install --upgrade gradio pvporcupine pyaudio openai==0.28 openai-whisper numpy==1.26.1 wave simpleaudio`
+   ```bash
+   pip install --upgrade gradio pvporcupine pyaudio openai==0.28 openai-whisper numpy==1.26.1 wave simpleaudio
+   ```
 
    You may need more dependencies, download as you need.
 
-6. Last step
+7. Last step
 
    Before enjoy, you should debug/test your gpt-sovits to perform a text-to-speech, check your Internet so you can access openai, and make sure the existing proxies(maybe) will not proxy local traffic (127.0.0.1 in this case). You should switch the GPT/SoVITS model to bronya in the GPT-SoVITS WebUI, change the path of reference audio in  the main.py to your own one. You may adjust the parameters.
 
-7. Enjoy
+8. Enjoy
 
    Down load `main.py` into a folder with your `.ppn` file. Double click the main.py or run it through cmd are both ok. Remember pre-open your tts service (check if  `localhost:9872` is available)
 
